@@ -1,2 +1,0 @@
-# ishwornepali
-my website

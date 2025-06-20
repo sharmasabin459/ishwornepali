@@ -1,0 +1,38 @@
+       <style>
+
+    p{
+        border-style: double;
+        border-width: 5px;
+        border-color: gold;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    #p1{
+        border-style: soid;
+        border-width: 5px;
+        border-color: black;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    #p2{
+        border-style: dashed;
+        border-width: 5px;
+        border-color: blue;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    #p3{
+        border-style: dot;
+        border-width: 5px;
+        border-color: red;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    #p4{
+        border-style: line;
+        border-width: 5px;
+        border-color: orange;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    </style>
